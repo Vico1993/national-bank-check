@@ -9,7 +9,6 @@ updates:
     directory: "/"
     labels:
       - dependencies
-      - go
     schedule:
       interval: "weekly"
       day: "sunday"
@@ -17,7 +16,6 @@ updates:
     directory: "/"
     labels:
       - dependencies
-      - actions
     schedule:
       interval: "weekly"
       day: "sunday"
